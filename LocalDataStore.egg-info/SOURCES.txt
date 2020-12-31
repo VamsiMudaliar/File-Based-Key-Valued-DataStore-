@@ -1,0 +1,14 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+LocalDataStore/README.md
+LocalDataStore/__init__.py
+LocalDataStore/main_logic.py
+LocalDataStore/unit_testing.py
+LocalDataStore.egg-info/PKG-INFO
+LocalDataStore.egg-info/SOURCES.txt
+LocalDataStore.egg-info/dependency_links.txt
+LocalDataStore.egg-info/not-zip-safe
+LocalDataStore.egg-info/top_level.txt
