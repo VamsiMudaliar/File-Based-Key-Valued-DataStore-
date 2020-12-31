@@ -7,7 +7,7 @@
 
 __ABOUT__
 
-__Built a file-Based Key-Value DataStore that supports the basic CRD(Create,read and delete) operations . 
+__Built a file-Based Key-Value DataStore that supports the basic CRD(Create,read and delete) operations with additional Update operation . 
 This data store is meant to be used as a local storage for one single process on one laptop. The data store is exposed as a library
 to the clients that can instantiate a class and work with the data store.__
 
